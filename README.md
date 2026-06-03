@@ -8,10 +8,3 @@
 * Добавление файлов в существующие архивы
 * Извлечение содержимого архивов
 * Просмотр списка файлов внутри архива
-
-## Установка
-
-```bash
-git clone https://github.com/ваш-username/gaz-archive.git
-cd gaz-archive
-pip install -r requirements.txt
